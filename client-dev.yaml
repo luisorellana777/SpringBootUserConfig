@@ -1,6 +1,6 @@
 server:
   port: 8090
-management
+management:
   endpoints:
     web:
       exposure:
